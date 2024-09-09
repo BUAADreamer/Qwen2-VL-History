@@ -2,21 +2,39 @@
 
 ## 例子
 
-<details><summary>博物馆</summary>
+<details><summary>博物馆 Qwen2-VL</summary>
+
+![讲解博物馆](pics/1_origin.png)
+
+</details>
+
+<details><summary>博物馆 Qwen2-VL-History</summary>
 
 ![讲解博物馆](pics/1.png)
 
 </details>
 
-<details><summary>古迹</summary>
+<details><summary>博物馆 Qwen2-VL</summary>
 
-![讲解古迹](pics/2.png)
+![讲解博物馆](pics/2_origin.png)
 
 </details>
 
-<details><summary>文物</summary>
+<details><summary>博物馆 Qwen2-VL-History</summary>
 
-![讲解文物](pics/3.png)
+![讲解博物馆](pics/2.png)
+
+</details>
+
+<details><summary>博物馆 Qwen2-VL</summary>
+
+![讲解博物馆](pics/3_origin.png)
+
+</details>
+
+<details><summary>博物馆 Qwen2-VL-History</summary>
+
+![讲解博物馆](pics/3.png)
 
 </details>
 
