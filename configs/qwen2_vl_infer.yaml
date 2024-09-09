@@ -1,0 +1,3 @@
+model_name_or_path: saves/qwen2_vl-7b/full/sft
+#model_name_or_path: Qwen/Qwen2-VL-7B-Instruct
+template: qwen2_vl
