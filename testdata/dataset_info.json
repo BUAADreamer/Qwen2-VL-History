@@ -1,6 +1,9 @@
 {
   "train": {
     "file_name": "train.json",
-    "formatting": "sharegpt"
+    "formatting": "sharegpt",
+    "columns": {
+      "images": "images"
+    }
   }
 }
